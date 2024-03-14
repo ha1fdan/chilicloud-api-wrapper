@@ -9,7 +9,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 
 VERSION = '0.0.1'
 DESCRIPTION = 'A simple api wrapper for Chilicloud.'
-LONG_DESCRIPTION = 'A package that allows to build simple streams of video, audio and camera data.'
+LONG_DESCRIPTION = 'A package that allows you to interact with your Chilicloud account using the Chilicloud API. You can upload, download and delete files.'
 
 # Setting up
 setup(
